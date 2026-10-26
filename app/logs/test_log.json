@@ -1,9 +1,0 @@
-{
-  "stage": "TEST",
-  "status": "success",
-  "exit_code": 0,
-  "timestamp": "2026-07-16T09:49:05Z",
-  "tests_expected": 3,
-  "tests_failed": 0,
-  "tests_passed": 3
-}
